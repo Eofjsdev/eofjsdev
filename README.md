@@ -18,7 +18,7 @@
 
 <h3> 🤓 Sobre mí </h3>
 
-- 🇲🇽 &nbsp; **Desarrollador web y creador digital** mexicano.
+- 🇲🇽 &nbsp; **Desarrollador web
 - 💻 &nbsp; Aplicaciones web, interfaces modernas, bots de WhatsApp, APIs y proyectos experimentales.
 - ❤️ &nbsp; Me apasiona la programación, el diseño web y crear herramientas útiles para la comunidad.
 - 🤝🏻 &nbsp; Abierto a **colaborar** en proyectos tecnológicos y nuevas ideas digitales.
@@ -59,8 +59,6 @@ Toca un logotipo y se abre esa IA con la pregunta lista.
 
 <br/><br/>
 
-![GitHub Followers](https://img.shields.io/github/followers/Eofjsdev?style=for-the-badge&color=FF6B6B)
-![Profile Views](https://komarev.com/ghpvc/?username=Eofjsdev&color=4c5861&style=for-the-badge)
 
 _Hecho con 💜 por [Eofjsdev](https://github.com/Eofjsdev)_
 
